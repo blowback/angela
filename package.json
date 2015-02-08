@@ -1,0 +1,19 @@
+{
+  "name": "Angela",
+  "version": "0.0.0",
+  "description": "Angela block editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blowback/angela.git"
+  },
+  "author": "Ant Skelton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blowback/angela/issues"
+  },
+  "homepage": "https://github.com/blowback/angela"
+}
